@@ -37,5 +37,5 @@ Apaixonada por garantir a qualidade de software através de testes automatizados
 
 ## 📫 Contato
 
-- LinkedIn: [seu-linkedin-aqui]
-- Email: [seu-email-aqui]
+- LinkedIn: https://www.linkedin.com/in/kamila-joice
+- Email: kamila.joice880@gmail.com
