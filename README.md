@@ -1,43 +1,73 @@
-# 👋 Olá, eu sou a Kamila
+# 👋 Hi, I'm Kamila
 
-**Engenheira Elétrica em transição para Quality Assurance**
+## QA Automation Engineer | Web, Mobile & API Testing
 
-Apaixonada por garantir a qualidade de software através de testes automatizados. Formação em automação de testes E2E (Web e Mobile) e API, com foco em boas práticas como Page Object, BDD e CI/CD.
-
----
-
-## 🛠️ Tecnologias
-
-- **Automação Web:** Playwright, Cucumber, JavaScript
-- **Automação Mobile:** WebdriverIO, Appium, JavaScript
-- **Testes de API:** Java, REST-assured, JUnit 5
-- **CI/CD:** GitHub Actions
-- **Versionamento:** Git, GitHub
-- **Metodologias:** BDD, Page Object Pattern, Data-Driven Testing
+Background in Electrical Engineering and industrial automation, currently focused on software quality engineering through automated testing, scalable test architecture and CI/CD pipelines.
 
 ---
 
-## 📂 Projetos Principais
+## 🚀 Tech Stack
 
-| Projeto | Tecnologia | Descrição | CI/CD |
-|---------|-----------|-----------|-------|
-| [Automação Web - E-commerce](https://github.com/kamilajaa/Compra_vestido_01_PO) | Playwright + Cucumber + PO | Fluxo de compra completo com BDD e Page Object | ![Web E2E Tests](https://github.com/kamilajaa/Compra_vestido_01_PO/actions/workflows/web-tests.yml/badge.svg) |
-| [Testes API - PetStore](https://github.com/kamilajaa/PetStoreAPITest.java) | Java + REST-assured + JUnit 5 | Validação de endpoints REST com fluxo completo de venda | ![API Tests](https://github.com/kamilajaa/PetStoreAPITest.java/actions/workflows/api-tests.yml/badge.svg) |
-| [Automação Mobile - MyDemoApp](https://github.com/kamilajaa/MyDemoApp_Fluxo_compra_PO) | WebdriverIO + Appium + Cucumber | Fluxo de compra em app Android com Page Object | ![Mobile Tests](https://github.com/kamilajaa/MyDemoApp_Fluxo_compra_PO/actions/workflows/mobile-tests.yml/badge.svg) |
-| [Automação Mobile - Avançado](https://github.com/kamilajaa/MyDemoApp145Adv_2) | WebdriverIO + Appium + Cucumber | Versão avançada com múltiplos produtos e scroll dinâmico | - |
+### Web Automation
+- Playwright
+- Cucumber
+- JavaScript
 
-&gt; 💡 **Evolução dos projetos:** Os repositórios de aprendizado intermediários (v1 a v3) estão arquivados. A tabela acima mostra as versões finais com CI/CD em execução.
+### Mobile Automation
+- WebdriverIO
+- Appium
+- JavaScript
+
+### API Testing
+- Java
+- REST-assured
+- JUnit 5
+
+### CI/CD & Version Control
+- GitHub Actions
+- Git
+- GitHub
+
+### Test Architecture & Methodologies
+- BDD
+- Page Object Model (POM)
+- Data-Driven Testing
+- Reusable Test Components
 
 ---
 
-## 🎯 Em andamento
+## 🧪 Featured Projects
 
-- 📚 Preparação para certificação **ISTQB CTFL**
-- 🔄 Aprimorando conhecimentos em automação de testes e CI/CD
+| Project | Stack | Description | Pipeline |
+|----------|-------|-------------|----------|
+| [Playwright Ecommerce Automation](https://github.com/kamilajaa/Compra_vestido_01_PO) | Playwright + Cucumber + JavaScript | End-to-end ecommerce automation framework with reusable Page Objects, BDD architecture and CI/CD execution. | ![Web E2E Tests](https://github.com/kamilajaa/Compra_vestido_01_PO/actions/workflows/web-tests.yml/badge.svg) |
+| [REST API Automation Framework](https://github.com/kamilajaa/PetStoreAPITest.java) | Java + REST-assured + JUnit 5 | REST API automated testing with endpoint validation, request chaining and automated pipeline execution. | ![API Tests](https://github.com/kamilajaa/PetStoreAPITest.java/actions/workflows/api-tests.yml/badge.svg) |
+| [Mobile Automation Framework](https://github.com/kamilajaa/MyDemoApp_Fluxo_compra_PO) | WebdriverIO + Appium + Cucumber | Mobile ecommerce automation for Android applications using scalable Page Object architecture and CI/CD integration. | ![Mobile Tests](https://github.com/kamilajaa/MyDemoApp_Fluxo_compra_PO/actions/workflows/mobile-tests.yml/badge.svg) |
+| [Advanced Mobile E2E Automation](https://github.com/kamilajaa/MyDemoApp145Adv_2) | WebdriverIO + Appium + Cucumber | Advanced mobile automation scenarios with dynamic scrolling, multiple product flows and reusable test components. | - |
 
 ---
 
-## 📫 Contato
+## 🏗️ Test Architecture
+
+- Page Object Model (POM)
+- BDD with Cucumber
+- Reusable test components
+- Dynamic test data
+- Automated CI/CD pipelines
+- End-to-end test automation
+- Cross-platform automation
+
+---
+
+## 📚 Currently Improving
+
+- ISTQB CTFL Certification
+- Advanced automation strategies
+- CI/CD and scalable test execution
+
+---
+
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/kamila-joice
 - Email: kamila.joice880@gmail.com
